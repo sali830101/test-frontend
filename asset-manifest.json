@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/code-fest-frontend/static/css/main.c1fdc160.css",
-    "main.js": "/code-fest-frontend/static/js/main.0a087cdf.js",
-    "index.html": "/code-fest-frontend/index.html",
-    "main.c1fdc160.css.map": "/code-fest-frontend/static/css/main.c1fdc160.css.map",
-    "main.0a087cdf.js.map": "/code-fest-frontend/static/js/main.0a087cdf.js.map"
+    "main.css": "/test-frontend/static/css/main.c1fdc160.css",
+    "main.js": "/test-frontend/static/js/main.fba98146.js",
+    "index.html": "/test-frontend/index.html",
+    "main.c1fdc160.css.map": "/test-frontend/static/css/main.c1fdc160.css.map",
+    "main.fba98146.js.map": "/test-frontend/static/js/main.fba98146.js.map"
   },
   "entrypoints": [
     "static/css/main.c1fdc160.css",
-    "static/js/main.0a087cdf.js"
+    "static/js/main.fba98146.js"
   ]
 }
